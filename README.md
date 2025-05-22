@@ -26,14 +26,6 @@ A minimalist and responsive expense tracking web app with authentication, transa
 
 ---
 
-## 🎞️ Demo (GIF Preview)
-
-![Demo GIF](./assets/expense-demo.gif)
-
-> Place your screen recording as a GIF in `./assets/expense-demo.gif`. Use [ezgif.com](https://ezgif.com/video-to-gif) to convert a video if needed.
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript
