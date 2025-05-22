@@ -28,8 +28,3 @@ A minimalist expense tracking web app with authentication, transaction analytics
 
 ---
 
-## 🚀 Quick Start
-1. Clone repo:
-   ```bash
-   git clone https://github.com/kajal-1402-yadav/expense-tracker.git
-   cd expense-tracker
